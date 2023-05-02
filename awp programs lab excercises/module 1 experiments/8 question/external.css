@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    font-size: 28px;
+     color: rgb(231, 17, 17);
+      font-family: 'Times New Roman'; 
+      font-weight: 100; 
+      text-align: center;
+}
